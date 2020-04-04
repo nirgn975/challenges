@@ -1,0 +1,8 @@
+Link: https://crackmes.one/crackme/5b8a37a433c5d45fc286ad83
+
+Command line solution:
+``
+$ root@kali:~/Downloads# ./rev50_linux64-bit 1234@67890
+Nice Job!!
+flag{1234@67890}
+``
