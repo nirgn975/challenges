@@ -13,6 +13,22 @@ delete_nth ([20,37,20,21],1) # return [20,37,21]
 ```
 """
 
+
+# Time complexity O(n^2)
+def delete_nth_naive(order, max_e):
+    if not order or max_e < 1:
+        return []
+    
+    new_order = []
+    
+    for item in order:
+        if new_order.count(item) < max_e:
+            new_order.append(item)
+            
+    return new_order
+
+
+# Time complexity O(n)
 def delete_nth(order,max_e):
     if not order or max_e < 1:
         return []
