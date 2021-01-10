@@ -32,7 +32,7 @@ Reverse Engineering challenges from [crackmes](https://crackmes.one/) website.
 
 [license-image]: https://img.shields.io/badge/license-ISC-blue.svg
 [license-url]: https://github.com/nirgn975/Challenges/blob/master/LICENSE
-[maintenance-image]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-image]: https://img.shields.io/maintenance/yes/2025.svg
 [maintenance-url]: https://github.com/nirgn975
 [donate-image]: https://img.shields.io/badge/PayPal-Donate-lightgrey.svg
 [donate-url]: https://www.paypal.me/nirgn/2
